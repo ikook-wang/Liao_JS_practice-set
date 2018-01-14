@@ -5,7 +5,7 @@
 
 ## 目录：
 
-### 函数 region {
+region { ### 函数
 
 #### &emsp;&emsp; [函数定义和调用](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E5%92%8C%E8%B0%83%E7%94%A8.md)
 
