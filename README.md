@@ -10,9 +10,9 @@
 #### &emsp;&emsp; 1. [函数定义和调用](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E5%92%8C%E8%B0%83%E7%94%A8.md)
 
 #### &emsp;&emsp; 2. 高阶函数 
-#### &emsp;&emsp;&emsp;&emsp; [01. map/reduce](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0/map%E3%80%81reduce.md)
-#### &emsp;&emsp;&emsp;&emsp; [02. filter](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0/filter.md)
-#### &emsp;&emsp;&emsp;&emsp; [03. sort](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0/sort.md)
+##### &emsp;&emsp;&emsp;&emsp; [01. map/reduce](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0/map%E3%80%81reduce.md)
+##### &emsp;&emsp;&emsp;&emsp; [02. filter](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0/filter.md)
+##### &emsp;&emsp;&emsp;&emsp; [03. sort](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0/sort.md)
 
 #### &emsp;&emsp; 3. [闭包](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E9%97%AD%E5%8C%85.md)
 
