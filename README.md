@@ -22,18 +22,18 @@
 
 ### 标准对象
 
-#### &emsp;&emsp; [JS 包装对象引出几条需要遵守的规则](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/JS%20%E5%8C%85%E8%A3%85%E5%AF%B9%E8%B1%A1%E5%BC%95%E5%87%BA%E5%87%A0%E6%9D%A1%E9%9C%80%E8%A6%81%E9%81%B5%E5%AE%88%E7%9A%84%E8%A7%84%E5%88%99.md)
+#### &emsp;&emsp; 1. [JS 包装对象引出几条需要遵守的规则](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/JS%20%E5%8C%85%E8%A3%85%E5%AF%B9%E8%B1%A1%E5%BC%95%E5%87%BA%E5%87%A0%E6%9D%A1%E9%9C%80%E8%A6%81%E9%81%B5%E5%AE%88%E7%9A%84%E8%A7%84%E5%88%99.md)
 
-#### &emsp;&emsp; [Date](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/Date.md)
+#### &emsp;&emsp; 2. [Date](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/Date.md)
 
-#### &emsp;&emsp; [RegExp](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/RegExp.md)
+#### &emsp;&emsp; 3. [RegExp](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/RegExp.md)
 
-#### &emsp;&emsp; [JSON](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/JSON.md)
+#### &emsp;&emsp; 4. [JSON](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/JSON.md)
 
 ### 面向对象编程
 
-#### &emsp;&emsp; [创建对象](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1.md)
+#### &emsp;&emsp; 1. [创建对象](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1.md)
 
-#### &emsp;&emsp; [原型继承](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/%E5%8E%9F%E5%9E%8B%E7%BB%A7%E6%89%BF.md)
+#### &emsp;&emsp; 2. [原型继承](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/%E5%8E%9F%E5%9E%8B%E7%BB%A7%E6%89%BF.md)
 
-#### &emsp;&emsp; [class 继承](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/class%20%E7%BB%A7%E6%89%BF.md)
+#### &emsp;&emsp; 3. [class 继承](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B/class%20%E7%BB%A7%E6%89%BF.md)
