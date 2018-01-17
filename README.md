@@ -4,6 +4,8 @@
 
 廖雪峰老师「JavaScript 教程」练习题及重点集合，教程地址：http://t.cn/RK0cJQs
 
+同时，会有一些重要知识点的解析部分，包含但不限于廖雪峰老师教程的内容，以供自己回顾查阅
+
 <br>
 
 ## 目录：
@@ -48,3 +50,7 @@
 ##### &emsp;&emsp;&emsp;&emsp; [01. 更新 DOM](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%93%8D%E4%BD%9C%20DOM/%E6%9B%B4%E6%96%B0%20DOM.md)
 ##### &emsp;&emsp;&emsp;&emsp; [02. 插入 DOM](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%93%8D%E4%BD%9C%20DOM/%E6%8F%92%E5%85%A5%20DOM.md)
 ##### &emsp;&emsp;&emsp;&emsp; [03. 删除 DOM](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%93%8D%E4%BD%9C%20DOM/%E5%88%A0%E9%99%A4%20DOM.md)
+
+#### &emsp;&emsp; 2. [操作表单](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%93%8D%E4%BD%9C%E8%A1%A8%E5%8D%95.md)
+
+#### &emsp;&emsp; 3. [操作文件](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6.md)
