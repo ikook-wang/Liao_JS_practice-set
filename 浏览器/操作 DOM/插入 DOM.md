@@ -41,7 +41,7 @@ for(var i = 0; i < arr.length; i++) {
 */
 
 
-// -------- 改进后的版本。将 DOM 节点保存的数组中，然后利用数组的 sort() 方法「这里重新定义了 sort() 的排序方式，根据 DOM 节点的内容进行排序」 ------------
+// -------- 改进后的版本。将 DOM 节点保存到数组中，然后利用数组的 sort() 方法「这里重新定义了 sort() 的排序方式，根据 DOM 节点的内容进行排序」 ------------
 
 var list = document.getElementById('test-list');
 
@@ -74,10 +74,13 @@ for(var i = 0; i < arr.length; i++) {
 
 var list = document.getElementById("test-list");
 var arr = Array.from(list.children);
+
 console.log(arr);
+
 arr.sort(function(x, y) {
    return x.innerText > y.innerText;
 });
+
 for(let i = 0; i < arr.length; i++) {
     list.appendChild(arr[i]);
 }*/
