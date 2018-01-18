@@ -10,6 +10,8 @@
 
 [正则表达式 – 教程 | 菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
 
+[知道这20个正则表达式，能让你少写1,000行代码](https://www.jianshu.com/p/e7bb97218946)
+
 #### [AJAX](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/AJAX.md)
 
 理解 AJAX，理解跨域请求原理，学习 JSONP，重点学习理解 CORS。
