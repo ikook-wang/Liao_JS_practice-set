@@ -2,11 +2,11 @@
 
 - [ ]  [RegExp](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%A0%87%E5%87%86%E5%AF%B9%E8%B1%A1/RegExp.md)
 
-&emsp;  系统学习正则表达式，学习在 JS 中使用正则表达式。
+&emsp;&ensp; 系统学习正则表达式，学习在 JS 中使用正则表达式。
 
-&emsp; 资料：
+&emsp;&nbsp; 资料：
 
-&emsp;  [正则表达式 30 分钟入门教程](http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
+&emsp; [正则表达式 30 分钟入门教程](http://www.cnblogs.com/deerchao/archive/2006/08/24/zhengzhe30fengzhongjiaocheng.html)
 
 &emsp; [正则表达式 – 教程 | 菜鸟教程](http://www.runoob.com/regexp/regexp-tutorial.html)
 
