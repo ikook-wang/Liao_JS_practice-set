@@ -19,6 +19,14 @@
 
 ## 目录：
 
+### 快速入门
+
+#### &emsp;&emsp; 1. [数据类型和变量](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%92%8C%E5%8F%98%E9%87%8F.md)
+
+#### &emsp;&emsp; 2. [条件判断](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD.md)
+
+#### &emsp;&emsp; 3. [循环](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8/%E5%BE%AA%E7%8E%AF.md)
+
 ### 函数
 
 #### &emsp;&emsp; 1. [函数定义和调用](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E5%87%BD%E6%95%B0/%E5%87%BD%E6%95%B0%E5%AE%9A%E4%B9%89%E5%92%8C%E8%B0%83%E7%94%A8.md)
