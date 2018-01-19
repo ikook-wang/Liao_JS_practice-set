@@ -16,4 +16,10 @@
 
 理解 AJAX，理解跨域请求原理，学习 JSONP，重点学习理解 CORS。
 
+#### [Promise](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Promise.md)
 
+学习 Promise API，深入理解 Promise 原理。
+
+#### [Canvas](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Canvas.md)
+
+熟练使用 Canvas 常用方法，能够绘制基本的图形。
