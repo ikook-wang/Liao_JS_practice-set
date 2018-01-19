@@ -64,4 +64,8 @@
 
 #### &emsp;&emsp; 3. [操作文件](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6.md)
 
-#### &emsp;&emsp; 4. [AJAX](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/AJAX.md)（需复习加强理解）
+#### &emsp;&emsp; 4. [AJAX](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/AJAX.md)
+
+#### &emsp;&emsp; 5. [Promise](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Promise.md)
+
+#### &emsp;&emsp; 6. [Canvas](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Canvas.md)
