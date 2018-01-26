@@ -77,3 +77,5 @@
 #### &emsp;&emsp; 5. [Promise](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Promise.md)
 
 #### &emsp;&emsp; 6. [Canvas](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Canvas.md)
+
+### [jQuery](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/jQuery.md)
