@@ -79,3 +79,5 @@
 #### &emsp;&emsp; 6. [Canvas](https://github.com/china-kook/Liao_JS_practice-set/blob/master/%E6%B5%8F%E8%A7%88%E5%99%A8/Canvas.md)
 
 ### [jQuery](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/jQuery.md)
+
+#### &emsp;&emsp; 1.[选择器](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E9%80%89%E6%8B%A9%E5%99%A8/%E9%80%89%E6%8B%A9%E5%99%A8.md)
