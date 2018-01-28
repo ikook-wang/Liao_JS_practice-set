@@ -83,3 +83,6 @@
 #### &emsp;&emsp; 1. [选择器](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E9%80%89%E6%8B%A9%E5%99%A8/%E9%80%89%E6%8B%A9%E5%99%A8.md)
 ##### &emsp;&emsp;&emsp;&emsp; [01. 层级选择器](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E9%80%89%E6%8B%A9%E5%99%A8/%E5%B1%82%E7%BA%A7%E9%80%89%E6%8B%A9%E5%99%A8.md)
 ##### &emsp;&emsp;&emsp;&emsp; [02. 查找和过滤](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E9%80%89%E6%8B%A9%E5%99%A8/%E6%9F%A5%E6%89%BE%E5%92%8C%E8%BF%87%E6%BB%A4.md)
+
+#### &emsp;&emsp; 2. [操作 DOM](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E6%93%8D%E4%BD%9C%20DOM/%E6%93%8D%E4%BD%9C%20DOM.md)
+##### &emsp;&emsp;&emsp;&emsp; [修改 DOM 结构](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E6%93%8D%E4%BD%9C%20DOM/%E4%BF%AE%E6%94%B9%20DOM%20%E7%BB%93%E6%9E%84.md)
