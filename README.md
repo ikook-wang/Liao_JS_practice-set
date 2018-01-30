@@ -86,3 +86,7 @@
 
 #### &emsp;&emsp; 2. [操作 DOM](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E6%93%8D%E4%BD%9C%20DOM/%E6%93%8D%E4%BD%9C%20DOM.md)
 ##### &emsp;&emsp;&emsp;&emsp; [修改 DOM 结构](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E6%93%8D%E4%BD%9C%20DOM/%E4%BF%AE%E6%94%B9%20DOM%20%E7%BB%93%E6%9E%84.md)
+
+#### &emsp;&emsp; 3. [事件](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E4%BA%8B%E4%BB%B6.md)
+
+#### &emsp;&emsp; 4. [动画](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E5%8A%A8%E7%94%BB.md)
