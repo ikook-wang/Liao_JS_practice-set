@@ -90,3 +90,7 @@
 #### &emsp;&emsp; 3. [事件](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E4%BA%8B%E4%BB%B6.md)
 
 #### &emsp;&emsp; 4. [动画](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E5%8A%A8%E7%94%BB.md)
+
+#### &emsp;&emsp; 5. [AJAX](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/AJAX.md)
+
+#### &emsp;&emsp; 6. [扩展](https://github.com/china-kook/Liao_JS_practice-set/blob/master/jQuery/%E6%89%A9%E5%B1%95.md)
